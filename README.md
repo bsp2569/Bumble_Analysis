@@ -1,9 +1,9 @@
-Bumble User Behavior Analysis – Exploratory Data Analysis (EDA)
+# Bumble User Behavior Analysis – Exploratory Data Analysis (EDA)
 
 This project explores a real-world Bumble user dataset to uncover demographic patterns, lifestyle attributes, and behavioral trends that influence engagement on the platform. The analysis covers complete data cleaning, transformation, feature understanding, and insight generation with a business-oriented perspective.
 
-⸻
- Project Overview
+
+## Project Overview
 
 Dating platforms thrive on understanding user behavior. This analysis aims to answer questions such as:
 	•	Who are the dominant user demographics?
