@@ -47,3 +47,10 @@ The notebook performs full-scale EDA to derive these insights.
 	•	Users with restricted diets (vegan/vegetarian) tend to drink less frequently.
 	•	San Francisco, Oakland, and Berkeley host the highest number of users.
 	•	California is the top state by user volume.
+
+## Tech Stack
+	•	Python
+	•	Pandas
+	•	NumPy
+	•	Matplotlib / Seaborn
+	•	Jupyter Notebook
